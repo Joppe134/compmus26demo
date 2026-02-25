@@ -4,10 +4,10 @@ nothing fancy
 
 ## Heading
 
-###Sub Heading
+### Sub Heading
 
 *italic* 
 **bold**
 
-![](SSM Dream.png)
+![](SSMDream.png)
 
