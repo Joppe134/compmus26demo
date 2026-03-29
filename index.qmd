@@ -473,6 +473,13 @@ Overall, the classification results suggest that Stussy’s newer productions ar
 
 # CONCLUSION
 
+<iframe src="https://open.spotify.com/embed/track/0GAq63lBuh1ghnowOA7H0t"
+        width="100%" height="170"
+        frameborder="0"
+        allowtransparency="true"
+        allow="encrypted-media">
+</iframe>
+
 This portfolio set out to investigate whether Chris Stussy’s breakthrough track *All Night Long* marks a measurable shift in his musical style. Based on both perceptual listening and computational analysis, the results consistently support this hypothesis.
 
 Across multiple levels of analysis, clear differences emerge between the OLD and NEW tracks. At the level of track features, the NEW tracks are characterized by higher energy, increased loudness, and slightly higher tempos, suggesting a shift toward a more intense and club-oriented sound. The increased importance of speechiness further indicates a greater use of vocal elements, making the tracks more engaging and accessible to audiences.
